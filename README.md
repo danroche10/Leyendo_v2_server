@@ -2,7 +2,7 @@
 
 Production version: https://cocky-easley-edf596.netlify.app/ 
 
-This is the backend of Leyendo v2, a improved version of v1. Leyendo aims to provide readers with access to the best writing across the internet. Authenticated users are able to like and comment on pieces that they enjoy.
+This is the node.js backend of Leyendo v2, a improved version of v1. Leyendo aims to provide readers with access to the best writing across the internet. Authenticated users are able to like and comment on pieces that they enjoy.
 
 **A few notes on the v2:**
 
